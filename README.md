@@ -24,8 +24,9 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Author
-Eduardo S. M. de Vasconcelos | vasconce_at_tcd_dot_ie
-Trinity College Dublin School of Engineering
+Eduardo Vasconcelos, vasconce@tcd.ie
+
+TCD School of Engineering
 
 # Quick guide
 This is a Java program to perform a simulation on type-1 diabetes spread
