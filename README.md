@@ -36,21 +36,23 @@ whose path is specified at diabetesinheritance.DiabetesInheritance (line 80).
 
 Default constants defined at util.Constants are:
 
-1. POPULATION_SIZE
-..* specifies the initial population size
-2. DIABETICS
-..* specifies the initial percentage of diabetics
-3. ODDS_FATHER_ONLY
-  ..* odds of inheritance if only the father has the disease
-4. ODDS_MOTHER_ONLY_LESS_THAN_TWENTY_FIVE
-  ..* odds of inheritance if only the mother has the disease and is less than 25 years old
-5. ODDS_MOTHER_ONLY_NOT_LESS_THAN_TWENTY_FIVE
-  ..* odds of inheritance if only the mother has the disease and is more than 25 years old
-6. WOMEN_S_FERTILITY
-  ..* women's fertility
-7. MOMS_UNDER_AGE_25
-  ..* proportion of mothers under the age of 25
-8. GENERATIONS
-  ..* number of generations to simulate
-9. EXCHANGE_FACTOR
-  ..* population exchange factor
+  1. POPULATION_SIZE
+    * specifies the initial population size
+  2. DIABETICS
+    * specifies the initial percentage of diabetics
+  3. ODDS_FATHER_ONLY
+    * odds of inheritance if only the father has the disease
+  4. ODDS_MOTHER_ONLY_LESS_THAN_TWENTY_FIVE
+    * odds of inheritance if only the mother has the disease and is less than 25 years old
+  5. ODDS_MOTHER_ONLY_NOT_LESS_THAN_TWENTY_FIVE
+    * odds of inheritance if only the mother has the disease and is more than 25 years old
+  6. WOMEN_S_FERTILITY
+    * women's fertility
+  7. MOMS_UNDER_AGE_25
+    * proportion of mothers under the age of 25
+  8. GENERATIONS
+    * number of generations to simulate
+  9. EXCHANGE_FACTOR
+    * population exchange factor
+
+For further detail please refer to file *Type-1-Diabetes-Eduardo-Vasconcelos.pdf*
