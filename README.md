@@ -60,4 +60,4 @@ Default constants defined at util.Constants are:
   9. EXCHANGE_FACTOR
     * population exchange factor
 
-For further detail please refer to file "Type-1-Diabetes-Eduardo-Vasconcelos.pdf"
+For further detail please refer to file *Type-1-Diabetes-Eduardo-Vasconcelos.pdf*.
