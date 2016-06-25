@@ -2,7 +2,7 @@
 Java implementation of type-1 diabetes spread over generations
 
 # License
-Copyright (c) 2016 Eduardo Santos Medeiros de Vasconcelos
+Copyright (c) 2014 Eduardo Santos Medeiros de Vasconcelos
 
 Permission is hereby granted, free of charge, to any person obtaining 
 a copy of this software and associated documentation files (the 
@@ -22,6 +22,10 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Author
+Eduardo S. M. de Vasconcelos | vasconce_at_tcd_dot_ie
+Trinity College Dublin School of Engineering
 
 # Quick guide
 This is a Java program to perform a simulation on type-1 diabetes spread
@@ -55,4 +59,4 @@ Default constants defined at util.Constants are:
   9. EXCHANGE_FACTOR
     * population exchange factor
 
-For further detail please refer to file *Type-1-Diabetes-Eduardo-Vasconcelos.pdf*
+For further detail please refer to file "Type-1-Diabetes-Eduardo-Vasconcelos.pdf"
