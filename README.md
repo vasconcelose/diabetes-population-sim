@@ -1,7 +1,7 @@
 # diabetes-population-sim
 Java implementation of type-1 diabetes spread over generations
 
-# License
+## License
 Copyright (c) 2014 Eduardo Santos Medeiros de Vasconcelos
 
 Permission is hereby granted, free of charge, to any person obtaining 
@@ -23,12 +23,12 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# Author
+## Author
 Eduardo Vasconcelos, vasconce@tcd.ie
 
 TCD School of Engineering
 
-# Quick guide
+## Quick guide
 This is a Java program to perform a simulation on type-1 diabetes spread
 on a population over generations.
 
